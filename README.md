@@ -1,2 +1,2 @@
 # GiladGPT
-A ChatGPT-like Private Transformer
+A Private Transformer
